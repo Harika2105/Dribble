@@ -33,19 +33,18 @@ Home.html
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Home - hiya jewellery</title>
-  <!-- Bootstrap CSS -->
+  
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 
-  <!-- Navbar -->
+  
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">hiya jewellery</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+ <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
           <a class="nav-link" href="web.html">Home <span class="sr-only">(current)</span></a>
@@ -71,7 +70,7 @@ Home.html
     </div>
   </nav>
 
-  <!-- Page Content -->
+  
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8">
@@ -90,12 +89,12 @@ Home.html
   <body background="bg.jpeg" style="background-repeat: no-repeat; background-size: cover;">
 
 
-  <!-- Footer -->
+  
   <footer class="bg-dark text-white text-center py-4 mt-3">
     <p>&copy; 2024 hiya jewellery. All rights reserved. BY S.Harika</p>
   </footer>
 
-  <!-- Bootstrap JS -->
+  
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -109,19 +108,19 @@ about.html
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>About hiya jewellery</title>
-  <!-- Bootstrap CSS -->
+  
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 
-  <!-- Navbar -->
+ 
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">hiya jewellery</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
           <a class="nav-link" href="web.html">Home</a>
@@ -139,7 +138,6 @@ about.html
     </div>
   </nav>
 
-  <!-- Page Content -->
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-12">
@@ -174,12 +172,12 @@ about.html
     </div>
   </div>
   <body background="bg.jpeg" style="background-repeat: no-repeat; background-size: cover;"></body>
-  <!-- Footer -->
+  
   <footer class="bg-dark text-white text-center py-4 mt-3">
     <p>&copy; 2024 hiya jewellery. All rights reserved.  BY S.Harika</p>
   </footer>
 
-  <!-- Bootstrap JS -->
+  
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -193,12 +191,12 @@ product.html
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Products - hiya jewellery</title>
-  <!-- Bootstrap CSS -->
+  
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 
-  <!-- Navbar -->
+  
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">hiya jewellery</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -238,7 +236,7 @@ product.html
     </div>
   </nav>
 
-  <!-- Page Content -->
+  
   <div class="container mt-3">
     <div class="row">
       <div class="col-md-12">
@@ -274,14 +272,14 @@ product.html
     </div>
   </div>
 
-  <!-- Footer -->
+  
   <footer class="bg-dark text-white text-center py-4 mt-5">
     <p>&copy; 2024 hiya jewellery. All rights reserved. By S.Harika</p>
   </footer>
   <body background="bg.jpeg" style="background-repeat: no-repeat; background-size: cover;">
 
 
-  <!-- Bootstrap JS -->
+  
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -295,12 +293,12 @@ contact.html
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Products - hiya jewellery</title>
-  <!-- Bootstrap CSS -->
+  
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 
-  <!-- Navbar -->
+ 
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">hiya jewellery</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -340,7 +338,7 @@ contact.html
     </div>
   </nav>
 
-  <!-- Page Content -->
+  
   <div class="container mt-3">
     <div class="row">
       <div class="col-md-12">
@@ -376,14 +374,14 @@ contact.html
     </div>
   </div>
 
-  <!-- Footer -->
+  
   <footer class="bg-dark text-white text-center py-4 mt-5">
     <p>&copy; 2024 hiya jewellery. All rights reserved. By S.Harika</p>
   </footer>
   <body background="bg.jpeg" style="background-repeat: no-repeat; background-size: cover;">
 
 
-  <!-- Bootstrap JS -->
+  
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
