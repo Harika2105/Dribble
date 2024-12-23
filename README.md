@@ -26,6 +26,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
+```
 Home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -387,7 +388,7 @@ contact.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![alt text](<dribble Home.png>)
 ![alt text](<dribble About.png>)
